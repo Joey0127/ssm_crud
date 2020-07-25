@@ -32,7 +32,7 @@ public class EmployeeService {
     }
 
     /**
-     * 员工更新
+     * 员工更新.
      * @param employee
      * @return
      */
@@ -42,7 +42,7 @@ public class EmployeeService {
 
 
     /**
-     * 根据id查询用户信息
+     * 根据id查询用户信息.
      * @param id
      * @return
      */
